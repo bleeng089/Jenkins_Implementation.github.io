@@ -109,10 +109,8 @@
 ### *export PATH=/usr/local/bin:$PATH*
 
 ## Step 11: Exit the container and head to github https://github.com/bleeng089/autoScale.git
-- Fork this repo and clone the forked repo
+- Fork my repo and clone the forked repo
 ![Jenkins Implementation](https://github.com/bleeng089/Jenkins_Implementation.github.io/raw/main/image24.png)
-![Jenkins Implementation](https://github.com/bleeng089/Jenkins_Implementation.github.io/raw/main/image25.png)
-![Jenkins Implementation](https://github.com/bleeng089/Jenkins_Implementation.github.io/raw/main/image26.png)
 ![Jenkins Implementation](https://github.com/bleeng089/Jenkins_Implementation.github.io/raw/main/image27.png)
 - Line 11 in "Jenkinsfile" is what we'll name the Access Key ID in Jenkins. This will allow Jenkins to reference our AWS Access Keys in order to build infrastructure
 ![Jenkins Implementation](https://github.com/bleeng089/Jenkins_Implementation.github.io/raw/main/image28.png)
