@@ -35,7 +35,7 @@
 
 ## Step 7: In your AWS console, go to IAM and create a new user for Jenkins
 ![Jenkins Implementation](https://github.com/bleeng089/Jenkins_Implementation.github.io/raw/main/image14.png)
-- Create Access Keys for the user for CLI access
+- Create Access Keys for Jenkins for CLI access
 ![Jenkins Implementation](https://github.com/bleeng089/Jenkins_Implementation.github.io/raw/main/image15.png)
 
 ## Step 8: Go back to Jenkins and install your plugins
